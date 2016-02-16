@@ -1,6 +1,6 @@
 {
   "name": "r5m-scripts",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Various useful r5m-related scripts",
   "main": "index.js",
   "scripts": {
