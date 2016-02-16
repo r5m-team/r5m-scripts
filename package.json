@@ -1,0 +1,29 @@
+{
+  "name": "r5m-scripts",
+  "version": "0.0.1",
+  "description": "Various useful r5m-related scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r5m-team/r5m-scripts.git"
+  },
+  "keywords": [
+    "r5m"
+  ],
+  "author": "mikhael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r5m-team/r5m-scripts/issues"
+  },
+  "bin": {
+    "r5m-init": "r5m-init.js"
+  },
+  "homepage": "https://github.com/r5m-team/r5m-scripts#readme",
+  "dependencies": {
+    "shelljs": "^0.6.0",
+    "winston": "^2.1.1"
+  }
+}
