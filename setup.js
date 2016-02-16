@@ -1,6 +1,5 @@
 var shell = require('shelljs');
 
-
 function R5mInit(path) {
   this.path = path;
 }
