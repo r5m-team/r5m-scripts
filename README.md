@@ -10,7 +10,7 @@
 ### Шаг 1. Установить супер-скрипт. ###
 
 ```shell
-# Nastya, in Ubuntu place the word "sudo" bewore the word "npm"
+# Nastya, in Ubuntu place the word "sudo" before the word "npm"
 npm i -g https://github.com/r5m-team/r5m-scripts.git
 ```
 
