@@ -11,7 +11,7 @@ R5mInit.prototype.check = function(programName) {
 }
 
 R5mInit.prototype.initRepo = function() {
-  shell.exec('git clone https://github.com/milikhin/r5m-landing.git ' + this.path);
+  shell.exec('git clone https://github.com/r5m-team/r5m-landing.git ' + this.path);
   shell.exec('cd ' + this.path + '; npm i');
   shell.exec('cd ' + this.path + '; rm -rf .git; git init');
 }
